@@ -1,12 +1,12 @@
+//Transpilação do arquivo: <Windows> CTRL + B >>> tsc: buil/watch
+
 // ==> Variáveis [Type Annotations]
 let nome: string = "Eduardo Quirino"; //entrada
 console.log(nome); //imressão no console
 
-
 // ==> Arrays [Type Annotations]
 let animais: string[] = ["Cachorro, Gato, Vaca, Caneiro, Girrafa, Tigre"]; //entrada
 console.log(animais); //imressão no console
-
 
 // ==> Objetos [Type Annotations]
 let carro: {
@@ -23,12 +23,11 @@ carro = {
 };
 console.log(carro); //imressão no console
 
-
 // ==> Functions [Type Annotations]
-function multiplicarNumeros(num1:number, num2: number)//variáveis 
-{
-//parametros
-return num1 * num2;
+function multiplicarNumeros(num1: number, num2: number) {
+  //variáveis
+  //parametros
+  return num1 * num2;
 }
 //imressão no console
-console.log(multiplicarNumeros(2,5));//(multiplicarNumeros(2,5)) é o mesmo que dizer 2 X 5 = 10
+console.log(multiplicarNumeros(2, 5)); //(multiplicarNumeros(2,5)) é o mesmo que dizer 2 X 5 = 10

@@ -1,4 +1,5 @@
 "use strict";
+//Transpilação do arquivo: <Windows> CTRL + B >>> tsc: buil/watch
 // ==> Variáveis [Type Annotations]
 let nome = "Eduardo Quirino"; //entrada
 console.log(nome); //imressão no console
@@ -16,6 +17,7 @@ carro = {
 console.log(carro); //imressão no console
 // ==> Functions [Type Annotations]
 function multiplicarNumeros(num1, num2) {
+    //variáveis
     //parametros
     return num1 * num2;
 }
