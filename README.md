@@ -378,3 +378,70 @@ Esse processo é chamado *de tipagem contextual* porque o *contexto* em que a fu
 Semelhante às regras de inferência, você não precisa aprender explicitamente como isso acontece, mas entender que isso *acontece* pode ajudá-lo a perceber quando as anotações de tipo não são necessárias. Mais tarde, veremos mais exemplos de como o contexto em que um valor ocorre pode afetar seu tipo.
 
 # Tipo - Boolean
+
+![Captura de tela 2022-02-12 131219](C:/Users/Eduardo/OneDrive/Documentos/Projetos%20Web/TypeScript/README.assets/Captura%20de%20tela%202022-02-12%20131219.png)
+
+Sintaxe: 
+
+> **let nomeVariaavel: boolen = true;**
+
+❗ Alerta!! : Boolean ≠ boolean
+
+**Boolean**: É do tio objeto 
+
+**boolean**: É do tio primitivo
+
+Exemplo:
+
+<img src="README.assets/image-20220212153201982.png" alt="image-20220212153201982" style="zoom: 67%;" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
