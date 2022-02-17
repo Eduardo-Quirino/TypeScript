@@ -2,7 +2,7 @@
 
 *" https://youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H "*
 
- *Vídeo Atual " 11  ''*
+ *Vídeo Atual " 13  ''*
 
 ## 
 
@@ -399,7 +399,7 @@ Exemplo:
 
 ![image-20220217184209972](C:\Users\Eduardo\AppData\Roaming\Typora\typora-user-images\image-20220217184209972.png)
 
-Sintaxe:
+**Sintaxe:**
 
 > ![image-20220217184326742](C:\Users\Eduardo\AppData\Roaming\Typora\typora-user-images\image-20220217184326742.png)
 
