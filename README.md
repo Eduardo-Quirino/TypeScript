@@ -2,7 +2,7 @@
 
 *" https://youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H "*
 
- *Vídeo Atual " 9  ''*
+ *Vídeo Atual " 11  ''*
 
 ## 
 
@@ -395,11 +395,13 @@ Exemplo:
 
 <img src="README.assets/image-20220212153201982.png" alt="image-20220212153201982" style="zoom: 67%;" />
 
+# Tipo Number & Bigint
 
+![image-20220217184209972](C:\Users\Eduardo\AppData\Roaming\Typora\typora-user-images\image-20220217184209972.png)
 
+Sintaxe:
 
-
-
+> ![image-20220217184326742](C:\Users\Eduardo\AppData\Roaming\Typora\typora-user-images\image-20220217184326742.png)
 
 
 
