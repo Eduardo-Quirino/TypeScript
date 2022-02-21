@@ -2,7 +2,7 @@
 
 *" https://youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H "*
 
- *Vídeo Atual " 13  ''*
+ *Vídeo Atual " 14  ''*
 
 ## 
 
@@ -402,6 +402,32 @@ Exemplo:
 **Sintaxe:**
 
 > ![image-20220217184326742](C:\Users\Eduardo\AppData\Roaming\Typora\typora-user-images\image-20220217184326742.png)
+
+# String
+
+Sintaxe: ![image-20220221175307679](C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\TypeScript\image-20220221175307679.png)
+
+
+
+![image-20220221175511487](C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\TypeScript\image-20220221175511487.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
