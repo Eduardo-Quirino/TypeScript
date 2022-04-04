@@ -1,13 +1,10 @@
-# **Curso de Typscript **       <img src="https://soshace.com/wp-content/uploads/2019/05/inside.png" alt="Disadvantages of Using TypeScript — Soshace • Soshace" style="zoom:25%;" />
+# **Curso de Typscript **       `<img src="https://soshace.com/wp-content/uploads/2019/05/inside.png" alt="Disadvantages of Using TypeScript — Soshace • Soshace" style="zoom:25%;" />`
 
 *" https://youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H "*
 
  *Vídeo Atual " 14  ''*
 
-## 
-
 <details><summary><b>Módulo 1: Introdução à TypeScript</b></summary>
-
 
 - 1.1 - O que é TypeScript?
 - 1.2 - Conhecendo o Playground do TypeScript
@@ -18,7 +15,6 @@
   </details>
 
 <details><summary><b>Módulo 2: Tipos Básicos</b></summary>
-
 
 - 2.1 - Type Annotation
   - Demo 2.1
@@ -50,7 +46,6 @@
 
 <details><summary><b>Módulo 3: Fluxos de Controle</b></summary>
 
-
 - 3.1 - Condicional if...else
   - Demo 3.1
 - 3.2 - Condicional switch... case
@@ -62,7 +57,6 @@
     </details>
 
 <details><summary><b>Módulo 4: Funções/Functions </b></summary>
-
 
 - 4.1 - Introdução à Funções/Functions
   - Demo 4.1
@@ -84,7 +78,6 @@
   </details>
 
 <details><summary><b>Módulo 5: Classes</b></summary>
-
 
 - 5.1 - Introdução à Classes
   - Demo 5.1
@@ -109,7 +102,6 @@
 
 <details><summary><b>Módulo 6: Enum</b></summary>
 
-
 - 6.1 - Enums Numéricos
   - Demo 6.1
 - 6.2 - Enums String
@@ -120,7 +112,6 @@
   </details>
 
 <details><summary><b>Módulo 7: Interfaces</b></summary>
-
 
 - 7.1 - Introdução à Interfaces
   - Demo 7.1
@@ -138,7 +129,6 @@
   </details>
 
 <details><summary><b>Módulo 8: Generics</b></summary>
-
 
 - 8.1 - Introdução a Generics em TypeScript
   - Demo 8.1
@@ -159,7 +149,6 @@
 
 <details><summary><b>Módulo 9: Módulos</b></summary>
 
-
 - 9.1 - Introdução à Modules no Typescript
   - Demo 9.1
 - 9.2 - Usando Function Modules
@@ -172,7 +161,6 @@
   </details>
 
 <details><summary><b> Módulo 10: TypeScript em Node.js</b></summary>
-
 
 - 10.1 - Como podemos usar o Node.js com TypeScript
   - Demo 10.1
@@ -188,11 +176,7 @@
 - ✅ **[Azure Functions com TypeScript](https://docs.microsoft.com/azure/azure-functions/create-first-function-vs-code-typescript?WT.mc_id=javascript-14034-gllemos)**
 - ✅ **[Curso Grátis de Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=javascript-14034-gllemos)**
 
-
-
 ---
-
-
 
 ## Rodar no Visual Studio Code
 
@@ -214,26 +198,22 @@ tsc --version
 
 Outra opção é instalar o compilador TypeScript localmente em seu projeto ( `npm install --save-dev typescript`) e tem o benefício de evitar possíveis interações com outros projetos TypeScript que você possa ter.
 
+## Para iniciar a licação no VS Code
 
+Na raiz do rojeto(pasta do projeto) digite < tsc --init > + ENTER
 
-## Para iniciar a licação no VS Code 
-
-Na raiz do rojeto(pasta do rojeto) digite < tsc --init > + ENTER
-
-- Para executar, abra a palheta de comando ou digite Ctrl + Shift +P 
+- Para executar, abra a palheta de comando ou digite Ctrl + Shift +P
 - Selecione tarefa de **configurações de build** padrão e selecione < **tst:compilar** >
 
 ## Para rodar
 
-Entre no terminal, selecione a pasta  criada com extenção **JS** e digite  node + nome do arquivo JS 
+Entre no terminal, selecione a pasta  criada com extenção **JS** e digite  node + nome do arquivo JS
 
 EX:
 
->  **< node.app.js >** + ENTER
+> **< node.app.js >** + ENTER
 
 **OU**
-
-
 
 > **Ctrl + Shift + B**  e selecione opção monitorar   para criar executavel em JS
 
@@ -334,8 +314,6 @@ greet(42);Argument of type 'number' is not assignable to parameter of type 'stri
 
 > Mesmo que você não tenha anotações de tipo em seus parâmetros, o TypeScript ainda verificará se você passou o número correto de argumentos.
 
-
-
 ### Anotações de tipo de retorno
 
 Você também pode adicionar anotações de tipo de retorno. As anotações do tipo de retorno aparecem após a lista de parâmetros:
@@ -347,8 +325,6 @@ function getFavoriteNumber(): number {
 ```
 
 Assim como as anotações de tipo de variável, você geralmente não precisa de uma anotação de tipo de retorno porque o TypeScript inferirá o tipo de retorno da função com base em suas `return`instruções. A anotação de tipo no exemplo acima não altera nada. Algumas bases de código especificarão explicitamente um tipo de retorno para fins de documentação, para evitar alterações acidentais ou apenas por preferência pessoal.
-
-
 
 ### Funções anônimas
 
@@ -381,13 +357,13 @@ Semelhante às regras de inferência, você não precisa aprender explicitamente
 
 ![Captura de tela 2022-02-12 131219](C:/Users/Eduardo/OneDrive/Documentos/Projetos%20Web/TypeScript/README.assets/Captura%20de%20tela%202022-02-12%20131219.png)
 
-Sintaxe: 
+Sintaxe:
 
 > **let nomeVariaavel: boolen = true;**
 
 ❗ Alerta!! : Boolean ≠ boolean
 
-**Boolean**: É do tio objeto 
+**Boolean**: É do tio objeto
 
 **boolean**: É do tio primitivo
 
@@ -401,75 +377,10 @@ Exemplo:
 
 **Sintaxe:**
 
-> ![image-20220217184326742](C:\Users\Eduardo\AppData\Roaming\Typora\typora-user-images\image-20220217184326742.png)
-
 # String
 
 Sintaxe: ![image-20220221175307679](C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\TypeScript\image-20220221175307679.png)
 
-
-
 ![image-20220221175511487](C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\TypeScript\image-20220221175511487.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Demo - Tipo String
